@@ -1,0 +1,14 @@
+{
+  "name": "shuvi",
+  "version": "1.0.0",
+  "description": "The Human-Like System (AGI)",
+  "author": "Taiwan Web Technology Promotion Organization",
+  "license": "MIT",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.24.1"
+  }
+}
